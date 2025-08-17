@@ -1,3 +1,5 @@
+#Cúrriculo 2025#
+
 Este repositório contém um projeto de currículo pessoal em página web, desenvolvido como atividade da disciplina Introdução às Tecnologias para Web da PUC Campinas. O objetivo é aplicar conceitos básicos de HTML e CSS, construindo uma página organizada, clara e visualmente agradável.
 
 Funcionalidades
